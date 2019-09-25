@@ -9,8 +9,8 @@ Simply run the ApplicationLoader to compile and open the application
 
 ## Screenshots
 
-![Create Profile](https://github.com/dannyfelix/mvc-module-chooser/tree/master/Screenshots/create-profile.png)  
+![Create Profile](/Screenshots/create-profile.png)  
 
-![Select Modules](https://github.com/dannyfelix/mvc-module-chooser/tree/master/Screenshots/select-modules.png)  
+![Select Modules](/Screenshots/select-modules.png)  
 
-![Overview](https://github.com/dannyfelix/mvc-module-chooser/tree/master/Screenshots/overview.png)  
+![Overview](/Screenshots/overview.png)  
